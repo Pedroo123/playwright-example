@@ -1,0 +1,21 @@
+{
+  "name": "playwright-example",
+  "version": "1.0.0",
+  "description": "Exemplo de utilização básica do playwright para testes de UI",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedroo123/playwright-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedroo123/playwright-example/issues"
+  },
+  "homepage": "https://github.com/Pedroo123/playwright-example#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
